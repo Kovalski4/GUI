@@ -1,0 +1,17 @@
+gui:
+  testgui:
+    name: "mygui"
+    displayName: "Title of my gui"
+    size: 9
+    contents:
+      exampleButton:
+        material: PLAYER_HEAD
+        value: "blabla"
+        displayName: "Kafa"
+        slot: 0
+        type: BUTTON
+      exampleInput:
+        material: AIR
+        displayName: "blabla"
+        slot: 1
+        type: INPUT
